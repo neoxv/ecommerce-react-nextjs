@@ -11,14 +11,14 @@ https://ecommerce-stripe-react-nextjs.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_1.png?text=App+Screenshot+Here)
 ![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_2.png?text=App+Screenshot+Here)
-![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_3.png?text=App+Screenshot+Here)
 ![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_4.png?text=App+Screenshot+Here)
 ![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_5.png?text=App+Screenshot+Here)
 ![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_6.png?text=App+Screenshot+Here)
+![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_1.png?text=App+Screenshot+Here)
 
 
+/home/neo/projects/ecommerce-react-nextjs/public/screenshot _1.png
 
 
 ## Installation
