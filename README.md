@@ -18,8 +18,6 @@ https://ecommerce-stripe-react-nextjs.vercel.app/
 ![App Screenshot](https://ecommerce-stripe-react-nextjs.vercel.app/screenshot_1.png?text=App+Screenshot+Here)
 
 
-/home/neo/projects/ecommerce-react-nextjs/public/screenshot _1.png
-
 
 ## Installation
 
