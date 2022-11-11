@@ -24,8 +24,7 @@ https://ecommerce-stripe-react-nextjs.vercel.app/
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install
   npm run dev
 ```
     
